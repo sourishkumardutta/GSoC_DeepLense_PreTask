@@ -54,12 +54,6 @@ The train-to-test AUC gap is a domain shift issue, not a training failure. For c
 
 ---
 
-## Repository Structure
-```
-├── Common_Task/       # Task I: multi-class substructure classification
-├── Specific_Test_V/   # Task V: gravitational lens finding on real data
-└── README.md
-```
 
 ## Dependencies
 ```
